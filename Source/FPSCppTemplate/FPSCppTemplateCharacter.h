@@ -108,6 +108,9 @@ public:
 	float fMaxMovement = 3000;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "KZ Jump")
+	float fSyncRate = 0.;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "KZ Jump")
 	bool EnableAutoMoveForward = false;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Screen Debug")
@@ -135,6 +138,13 @@ protected:
 
 	float FMovementInput = 0.;
 	float RMovementInput = 0.;
+
+	/** Reset Sync Rate to 0. */
+	UFUNCTION(BlueprintCallable, Category = "KZ Jump")
+	void ResetSyncRate();
+	
+	float fSynRateNumerator = 0.;
+	float fSynRateDenominator = 0.;
 
 	/** Fires a projectile. */
 	void OnFire();

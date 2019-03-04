@@ -291,7 +291,7 @@ void AFPSCppTemplateCharacter::KZMoveForward(float Value)
 		}
 	}
 
-	// Enable auto move forward input (e.g. Pressing "W" key) while falling
+	// Enable auto move forward input (e.g. Like pressing "W" key in the air)
 	if (EnableAutoMoveForward)
 	{
 		if (MovementComponent->IsFalling() && bAutoMoveForward)
@@ -330,9 +330,12 @@ void AFPSCppTemplateCharacter::KZJumpTurn(float Rate)
 			{
 				if (fabs(Rate) >= .99f && fabs(Rate) < 10.0f)
 				{
+					fSynRateNumerator += 1.;
+
 					MovementComponent->MaxWalkSpeed += DeltaSpeed;
 					MovementComponent->MaxWalkSpeedCrouched += DeltaSpeed;
 				}
+				fSynRateDenominator += 1.;
 			}
 		}
 	}
@@ -375,6 +378,11 @@ bool AFPSCppTemplateCharacter::EnableTouchscreenMovement(class UInputComponent* 
 	return false;
 }
 
+void AFPSCppTemplateCharacter::ResetSyncRate()
+{
+	fSyncRate = 0.;
+}
+
 void AFPSCppTemplateCharacter::Tick(float DeltaSeconds)
 {
 	// Call any parent class Tick implementation
@@ -382,6 +390,7 @@ void AFPSCppTemplateCharacter::Tick(float DeltaSeconds)
 
 	if (MovementComponent == nullptr) MovementComponent = GetCharacterMovement();
 
+	// Ajust movement by multiplier
 	if (MovementComponent->Velocity.Size2D() <= (fMinMovement * fMovementMultiplier * fMovementResetThreshold))
 	{
 		MovementComponent->MaxWalkSpeed = fMinMovement * fMovementMultiplier;
@@ -395,6 +404,16 @@ void AFPSCppTemplateCharacter::Tick(float DeltaSeconds)
 		{
 			bAutoMoveForward = true;
 		}
+	}
+
+	// Calculate Sync Rate
+	if (fSynRateDenominator == 0.)
+	{
+		fSyncRate = 0.;
+	}
+	else
+	{
+		fSyncRate = fSynRateNumerator / fSynRateDenominator;
 	}
 
 	if (GEngine && bPrintSpeed)
