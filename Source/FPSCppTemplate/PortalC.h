@@ -51,25 +51,23 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	// Hang Yu
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, category = References)
 	class UCapsuleComponent* RootCapsule;
 
-	// Hang Yu
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, category = References)
 	UStaticMeshComponent* CoordCube;
 
-	// Hang Yu
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, category = References)
 	USceneCaptureComponent2D* SceneCaptureCPP;
 
-	// Hang Yu
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, category = References)
 	class APortalC* PortalToCPP;
 
-	// Hang Yu
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, category = References)
 	class AFPSCppTemplateCharacter* PlayerRefCPP;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Screen Debug")
+	bool bPrintPlayerRefNull = false;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, category = DebugCPP)
 	bool DrawLocalCoord;

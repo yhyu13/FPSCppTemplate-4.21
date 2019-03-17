@@ -117,7 +117,7 @@ public:
 	bool bPrintTeleport = false;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Screen Debug")
-	bool bPrintSpeed = true;
+	bool bPrintSpeed = false;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Screen Debug")
 	bool bPrintTurnRate = false;

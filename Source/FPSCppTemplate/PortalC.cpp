@@ -17,7 +17,6 @@ APortalC::APortalC()
 	RootCapsule = CreateDefaultSubobject<UCapsuleComponent>(TEXT("RootCapsule"));
 	RootCapsule->InitCapsuleSize(55.f, 96.0f); // Same size as FPS player
 	RootCapsule->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);;
-	RootCapsule->RegisterComponent();
 
 	CoordCube = CreateDefaultSubobject<UStaticMeshComponent>(TEXT("MyCoordCube"));
 	UStaticMesh* Mesh = LoadObject<UStaticMesh>(nullptr, TEXT("/Game/Geometry/Meshes/1M_Cube"));
@@ -27,12 +26,12 @@ APortalC::APortalC()
 	}
 	CoordCube->SetHiddenInGame(true);
 	CoordCube->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);;
-	CoordCube->AttachToComponent(RootCapsule, FAttachmentTransformRules::KeepWorldTransform);
-	CoordCube->RegisterComponent();
+	CoordCube->SetupAttachment(RootCapsule);
+	
 
 	SceneCaptureCPP = CreateDefaultSubobject<USceneCaptureComponent2D>(TEXT("MySceneCapture"));
-	SceneCaptureCPP->AttachToComponent(RootCapsule, FAttachmentTransformRules::KeepWorldTransform);
-	SceneCaptureCPP->RegisterComponent();
+	SceneCaptureCPP->SetupAttachment(RootCapsule);
+	
 
 	// Intialize variables
 	X = FVector(1,0,0);
@@ -137,7 +136,7 @@ void APortalC::UpdateSceneCaptureWRTPlayerCamera()
 {
 	if (PortalToCPP == nullptr || PlayerRefCPP == nullptr)
 	{
-		if (GEngine)
+		if (GEngine && bPrintPlayerRefNull)
 		{
 			GEngine->AddOnScreenDebugMessage(-1, 2.0f, FColor::Red, "PortalToCPP or PlayerRefCPP is NULL!");
 		}
