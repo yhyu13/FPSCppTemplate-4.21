@@ -1,99 +1,99 @@
 "../../../Engine/Content/EngineMeshes/Humanoid.uasset" 0
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 1
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 2
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 3
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 4
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 5
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 6
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 7
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/MyReverbEffect.uasset" 8
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/MySoundAttenuation.uasset" 9
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Carpet_Physic_Mat.uasset" 10
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Carpet_Mat.uasset" 11
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Conrete_Physic_Mat.uasset" 12
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Concrete_Mat.uasset" 13
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Grass_Physic_Mat.uasset" 14
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Grass_Mat.uasset" 15
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Gravel_Physic_Mat.uasset" 16
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Gravel_Mat.uasset" 17
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Ground_Physic_Mat.uasset" 18
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Ground_Mat.uasset" 19
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Metal_Physic_Mat.uasset" 20
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Metal_Mat.uasset" 21
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Plastic_Physic_Mat.uasset" 22
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Plastic_Mat.uasset" 23
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Sand_Physic_Mat.uasset" 24
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Sand_Mat.uasset" 25
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Snow_Physic_Mat.uasset" 26
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Snow_Mat.uasset" 27
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Water_Physic_Mat.uasset" 28
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Water_Mat.uasset" 29
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Physical_Materials/Wood_Physic_Mat.uasset" 30
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Materials/Materials/Wood_Mat.uasset" 31
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Rattle_Mono.uasset" 32
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Rattle_Stereo.uasset" 33
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_1.uasset" 34
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_2.uasset" 35
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_3.uasset" 36
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_4.uasset" 37
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_1.uasset" 38
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_2.uasset" 39
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_3.uasset" 40
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_4.uasset" 41
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Jumping/Jump_Voice_End.uasset" 42
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_1.uasset" 43
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_2.uasset" 44
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_3.uasset" 45
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_4.uasset" 46
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_1.uasset" 47
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_2.uasset" 48
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_3.uasset" 49
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_4.uasset" 50
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Jumping/Jump_Voice_Start.uasset" 51
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Jumping/Rattle_Jump_Mono.uasset" 52
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Jumping/Rattle_Jump_Stereo.uasset" 53
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_1.uasset" 54
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_2.uasset" 55
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_3.uasset" 56
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_4.uasset" 57
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_5.uasset" 58
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_6.uasset" 59
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_1.uasset" 60
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_2.uasset" 61
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_3.uasset" 62
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_4.uasset" 63
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_5.uasset" 64
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_6.uasset" 65
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/Geometry/Meshes/CubeMaterial.uasset" 66
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 67
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/Geometry/Meshes/TemplateFloor.uasset" 68
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Meshes/BaseMaterial.uasset" 69
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 70
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 71
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/BallProjectile.uasset" 72
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/DataTable/NumOfCheckpointsForEachLevel.uasset" 73
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpSaveGame.uasset" 74
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Cube_Mat3.uasset" 75
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Grab_PhysMat.uasset" 76
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Grab_Mat.uasset" 77
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Surf_PhysMat.uasset" 78
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Surf_Mat2.uasset" 79
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Surf_Mat3.uasset" 80
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Widget/Gradient.uasset" 81
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/blast.uasset" 82
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/blast_Mat.uasset" 83
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 84
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 85
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/Diamond_Mat.uasset" 86
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 87
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 88
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/Dot_Mat.uasset" 89
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/T_Smoke_Tile_01.uasset" 90
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/T_Soft_Smoke2_Dup.uasset" 91
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/Smoke_Mat.uasset" 92
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/Smoke.uasset" 93
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/Smoke_Mat1.uasset" 94
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/PortalParticle.uasset" 95
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 1
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 2
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 3
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 4
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 5
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 6
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 7
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/MyReverbEffect.uasset" 8
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/MySoundAttenuation.uasset" 9
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Carpet_Physic_Mat.uasset" 10
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Carpet_Mat.uasset" 11
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Conrete_Physic_Mat.uasset" 12
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Concrete_Mat.uasset" 13
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Grass_Physic_Mat.uasset" 14
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Grass_Mat.uasset" 15
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Gravel_Physic_Mat.uasset" 16
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Gravel_Mat.uasset" 17
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Ground_Physic_Mat.uasset" 18
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Ground_Mat.uasset" 19
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Metal_Physic_Mat.uasset" 20
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Metal_Mat.uasset" 21
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Plastic_Physic_Mat.uasset" 22
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Plastic_Mat.uasset" 23
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Sand_Physic_Mat.uasset" 24
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Sand_Mat.uasset" 25
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Snow_Physic_Mat.uasset" 26
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Snow_Mat.uasset" 27
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Water_Physic_Mat.uasset" 28
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Water_Mat.uasset" 29
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Physical_Materials/Wood_Physic_Mat.uasset" 30
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Materials/Materials/Wood_Mat.uasset" 31
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Rattle_Mono.uasset" 32
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Rattle_Stereo.uasset" 33
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_1.uasset" 34
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_2.uasset" 35
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_3.uasset" 36
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_end_4.uasset" 37
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_1.uasset" 38
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_2.uasset" 39
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_3.uasset" 40
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_end_4.uasset" 41
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Jumping/Jump_Voice_End.uasset" 42
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_1.uasset" 43
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_2.uasset" 44
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_3.uasset" 45
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/Female/jump_voice_female_start_4.uasset" 46
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_1.uasset" 47
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_2.uasset" 48
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_3.uasset" 49
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Jump_Voice_Mono/jump_voice_start_4.uasset" 50
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Jumping/Jump_Voice_Start.uasset" 51
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Jumping/Rattle_Jump_Mono.uasset" 52
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Jumping/Rattle_Jump_Stereo.uasset" 53
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_1.uasset" 54
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_2.uasset" 55
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_3.uasset" 56
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_4.uasset" 57
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_5.uasset" 58
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Mono/rattle_mono_6.uasset" 59
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_1.uasset" 60
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_2.uasset" 61
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_3.uasset" 62
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_4.uasset" 63
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_5.uasset" 64
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Rattle_Stereo/rattle_stereo_6.uasset" 65
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/Geometry/Meshes/CubeMaterial.uasset" 66
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 67
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/Geometry/Meshes/TemplateFloor.uasset" 68
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Meshes/BaseMaterial.uasset" 69
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 70
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 71
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/BallProjectile.uasset" 72
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/DataTable/NumOfCheckpointsForEachLevel.uasset" 73
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpSaveGame.uasset" 74
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Cube_Mat3.uasset" 75
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Grab_PhysMat.uasset" 76
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Grab_Mat.uasset" 77
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Surf_PhysMat.uasset" 78
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Surf_Mat2.uasset" 79
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Widget/Gradient.uasset" 80
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/blast.uasset" 81
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/blast_Mat.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 83
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 84
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/Diamond_Mat.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 86
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 87
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/Dot_Mat.uasset" 88
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/T_Smoke_Tile_01.uasset" 89
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/T_Soft_Smoke2_Dup.uasset" 90
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/Smoke_Mat.uasset" 91
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/Smoke.uasset" 92
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/Smoke_Mat1.uasset" 93
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/PortalParticle.uasset" 94
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 95
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 96
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 97
 "../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 98
@@ -133,374 +133,383 @@
 "../../../Engine/Content/EditorResources/BSPVertex.uasset" 132
 "../../../Engine/Content/EditorResources/EmptyActor.uasset" 133
 "../../../Engine/Content/EditorResources/S_Actor.uasset" 134
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 135
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 136
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 137
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 138
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 139
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 140
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 141
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 142
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 143
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 144
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 145
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 146
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 147
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 148
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 149
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 150
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 151
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 152
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 153
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 154
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 155
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 156
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 157
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 158
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 159
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 160
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 161
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 162
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 163
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 164
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 165
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 166
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 167
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 168
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 169
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 170
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 171
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 172
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 173
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 174
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 175
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 176
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 177
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 178
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 179
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 180
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 181
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 182
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 183
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 184
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 185
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 186
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 187
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 188
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 189
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 190
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 191
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 192
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 193
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 194
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 195
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 196
-"../../../Engine/Content/EngineResources/Black.uasset" 197
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 198
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 199
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 200
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 201
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 202
-"../../../Engine/Content/EngineSounds/Master.uasset" 203
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 204
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 205
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 206
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 207
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 208
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 209
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 210
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 211
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 212
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 213
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 214
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 215
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 216
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 217
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 218
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 219
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 220
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 221
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 222
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 223
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 224
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 225
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 226
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 227
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 228
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 229
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 230
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 231
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 232
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 233
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 234
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 235
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 236
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 237
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 238
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 239
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 240
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 241
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 242
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 243
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 244
-"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/MPC_GlobalMeshPainting.uasset" 245
-"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/UnwrapUVsForRender.uasset" 246
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 247
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 248
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 249
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 250
-"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/PositionsTextureBaking/M_BakeMeshPositions.uasset" 251
-"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/PositionsTextureBaking/M_BakingMask.uasset" 252
-"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/PositionsTextureBaking/M_DilatePositionsTexture.uasset" 253
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 254
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 255
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 256
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 257
-"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 258
-"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/RenderBrushes/M_PaintBrush_Regular.uasset" 259
-"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/RenderBrushes/M_PaintBrush_Eraser_Inst.uasset" 260
-"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/Serialization/M_SaveTextureToRenderTarget.uasset" 261
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 262
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 263
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 264
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 265
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 266
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 267
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 268
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 269
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 270
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 271
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 272
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 273
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 274
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SplineFollowingAIController.uasset" 275
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SplineFollowingPawn.uasset" 276
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/SplineBlock/Spline.uasset" 277
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 278
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 279
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 280
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 281
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 282
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 283
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 284
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 285
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 286
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 287
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 288
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 289
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 290
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 291
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 292
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/DataTable/ECheckPoint.uasset" 293
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpGameInstance.uasset" 294
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/BPI_Teleport.uasset" 295
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 296
-"../../../Engine/Content/BasicShapes/Cube.uasset" 297
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 298
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/VFX_UnrealCG/PortalParticle_parameterized.uasset" 299
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/BP_Portal.uasset" 300
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 301
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 302
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 303
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 304
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 305
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 306
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 307
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 308
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 309
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 310
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 311
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 312
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 313
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 314
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 315
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 316
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 317
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 318
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 319
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 320
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 321
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 322
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 323
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 324
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 325
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 326
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 327
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 328
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 329
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 330
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_1.uasset" 331
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_2.uasset" 332
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_3.uasset" 333
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_4.uasset" 334
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_5.uasset" 335
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_6.uasset" 336
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_1.uasset" 337
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_2.uasset" 338
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_3.uasset" 339
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_4.uasset" 340
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_5.uasset" 341
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_6.uasset" 342
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_1.uasset" 343
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_2.uasset" 344
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_3.uasset" 345
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_4.uasset" 346
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_5.uasset" 347
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_6.uasset" 348
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_1.uasset" 349
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_2.uasset" 350
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_3.uasset" 351
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_4.uasset" 352
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_5.uasset" 353
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_6.uasset" 354
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_1.uasset" 355
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_2.uasset" 356
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_3.uasset" 357
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_4.uasset" 358
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_5.uasset" 359
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_6.uasset" 360
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_1.uasset" 361
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_2.uasset" 362
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_3.uasset" 363
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_4.uasset" 364
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_5.uasset" 365
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_6.uasset" 366
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_1.uasset" 367
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_2.uasset" 368
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_3.uasset" 369
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_4.uasset" 370
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_5.uasset" 371
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_6.uasset" 372
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_1.uasset" 373
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_2.uasset" 374
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_3.uasset" 375
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_4.uasset" 376
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_5.uasset" 377
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_6.uasset" 378
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_1.uasset" 379
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_2.uasset" 380
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_3.uasset" 381
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_4.uasset" 382
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_5.uasset" 383
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_6.uasset" 384
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_1.uasset" 385
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_2.uasset" 386
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_3.uasset" 387
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_4.uasset" 388
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_5.uasset" 389
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_6.uasset" 390
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_1.uasset" 391
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_2.uasset" 392
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_3.uasset" 393
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_4.uasset" 394
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_5.uasset" 395
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_6.uasset" 396
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_1.uasset" 397
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_2.uasset" 398
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_3.uasset" 399
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_4.uasset" 400
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_5.uasset" 401
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_6.uasset" 402
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_1.uasset" 403
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_2.uasset" 404
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_3.uasset" 405
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_4.uasset" 406
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_5.uasset" 407
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_6.uasset" 408
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_1.uasset" 409
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_2.uasset" 410
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_3.uasset" 411
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_4.uasset" 412
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_5.uasset" 413
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_6.uasset" 414
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_1.uasset" 415
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_2.uasset" 416
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_3.uasset" 417
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_4.uasset" 418
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_5.uasset" 419
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_6.uasset" 420
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_1.uasset" 421
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_2.uasset" 422
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_3.uasset" 423
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_4.uasset" 424
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_5.uasset" 425
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_6.uasset" 426
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_1.uasset" 427
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_2.uasset" 428
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_3.uasset" 429
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_4.uasset" 430
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_5.uasset" 431
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_6.uasset" 432
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_1.uasset" 433
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_2.uasset" 434
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_3.uasset" 435
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_4.uasset" 436
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_5.uasset" 437
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_6.uasset" 438
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_1.uasset" 439
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_2.uasset" 440
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_3.uasset" 441
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_4.uasset" 442
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_5.uasset" 443
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_6.uasset" 444
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_1.uasset" 445
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_2.uasset" 446
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_3.uasset" 447
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_4.uasset" 448
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_5.uasset" 449
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_6.uasset" 450
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_1.uasset" 451
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_2.uasset" 452
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_3.uasset" 453
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_4.uasset" 454
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_5.uasset" 455
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_6.uasset" 456
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_1.uasset" 457
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_2.uasset" 458
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_3.uasset" 459
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_4.uasset" 460
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_5.uasset" 461
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_6.uasset" 462
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Footsteps.uasset" 463
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FootstepSound/Sound_Cues/Jumping/Foot_Jump.uasset" 464
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/DataTable/ELevelNames.uasset" 465
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Widget/BP_CreditWideget.uasset" 466
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Widget/BP_InGameMenu.uasset" 467
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/FPSCharacter.uasset" 468
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/GameObject/BaseActionableActor.uasset" 469
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/GameObject/BaseCollectableActor.uasset" 470
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpPlayerController.uasset" 471
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/GameObject/CollectableGold.uasset" 472
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Cube_Mat1.uasset" 473
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/GameObject/EndTimerButton.uasset" 474
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/GameObject/StartTimerButton.uasset" 475
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SpawnManager.uasset" 476
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SplineFollowingBlock.uasset" 477
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpGameState.uasset" 478
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 479
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Widget/BP_KZMainWideget.uasset" 480
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpHUD.uasset" 481
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpPlayerState.uasset" 482
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpGameMode.uasset" 483
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 484
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 485
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/Material/Mat_RT_Portal.uasset" 486
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/BP_Portal2.uasset" 487
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Cube_Mat4.uasset" 488
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/BP_Portal1.uasset" 489
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Maps/FirstPersonExampleMap_BuiltData.uasset" 490
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Cube_Mat2.uasset" 491
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Surf_Mat1.uasset" 492
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Material/Surf_Mat4.uasset" 493
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/Material/PhysMat_PortalSurface.uasset" 494
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyPortals/Material/Mat_PortalSurface.uasset" 495
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 496
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/Geometry/Meshes/1M_Cube.uasset" 497
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Maps/FirstPersonExampleMap.umap" 498
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Game/KZJumpMainMenuMode.uasset" 499
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Maps/MainMenu_BuiltData.uasset" 500
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Widget/SmallWidgets/BP_BaseTranparentButtonWithText.uasset" 501
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Widget/BP_MainMenu.uasset" 502
-"../../../../UE4_Projects/FPSCppTemplate 4.21/Content/MyFirstPerson/Maps/MainMenu.umap" 503
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 504
-"../../../Engine/Content/Maps/Entry.umap" 505
+"../../../Engine/Content/EditorResources/S_Note.uasset" 135
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 136
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 137
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 138
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 139
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 140
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 141
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 142
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 143
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 144
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 145
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 146
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 147
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 148
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 149
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 150
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 151
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 152
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 153
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 154
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 155
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 156
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 157
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 158
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 159
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 160
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 163
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 164
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 165
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 166
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 167
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 168
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 169
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 170
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 171
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 172
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 174
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 175
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 176
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 177
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 178
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 179
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 180
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 181
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 182
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 183
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 184
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 185
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 186
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 187
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 188
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 189
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 190
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 191
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 192
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 193
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 194
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 195
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 196
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 197
+"../../../Engine/Content/EngineResources/Black.uasset" 198
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 199
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 200
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 201
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 202
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 203
+"../../../Engine/Content/EngineSounds/Master.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 205
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 206
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 207
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 208
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 209
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 210
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 211
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 212
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 213
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 214
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 215
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 216
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 217
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 218
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 219
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 220
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 224
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 225
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 226
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 227
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 228
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 229
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 230
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 231
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 232
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 233
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 234
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 235
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 236
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 237
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 238
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 239
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 240
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 241
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 242
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 243
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 244
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 245
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 246
+"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/MPC_GlobalMeshPainting.uasset" 247
+"../../../Engine/Content/ArtTools/RenderToTexture/MaterialFunctions/UnwrapUVsForRender.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 249
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 250
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 252
+"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/PositionsTextureBaking/M_BakeMeshPositions.uasset" 253
+"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/PositionsTextureBaking/M_BakingMask.uasset" 254
+"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/PositionsTextureBaking/M_DilatePositionsTexture.uasset" 255
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 256
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SmoothStep.uasset" 257
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 258
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 259
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 260
+"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/RenderBrushes/M_PaintBrush_Regular.uasset" 261
+"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/RenderBrushes/M_PaintBrush_Eraser_Inst.uasset" 262
+"../../Plugins/Marketplace/DonMeshPainting/Content/Materials/Serialization/M_SaveTextureToRenderTarget.uasset" 263
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 265
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 266
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 267
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 268
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 269
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 270
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 271
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 272
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 273
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 274
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 275
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 276
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 277
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 278
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 279
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 280
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 281
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 282
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SplineFollowingAIController.uasset" 283
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SplineFollowingPawn.uasset" 284
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/SplineBlock/Spline.uasset" 285
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 286
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 287
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 288
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 289
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 290
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 291
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 292
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 293
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 294
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 295
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 296
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 297
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 298
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 299
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 300
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/DataTable/ECheckPoint.uasset" 301
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpGameInstance.uasset" 302
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/BPI_Teleport.uasset" 303
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 304
+"../../../Engine/Content/BasicShapes/Cube.uasset" 305
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 306
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/VFX_UnrealCG/PortalParticle_parameterized.uasset" 307
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/BP_Portal.uasset" 308
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 309
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 310
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 311
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 312
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 313
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 314
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 315
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 316
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 317
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 318
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 319
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 320
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 321
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 322
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 323
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 324
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 325
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 326
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 327
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 328
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 329
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 330
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 331
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 332
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 333
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 334
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 335
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 336
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 337
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 338
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_1.uasset" 339
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_2.uasset" 340
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_3.uasset" 341
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_4.uasset" 342
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_5.uasset" 343
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Carpet/carpet_heels_6.uasset" 344
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_1.uasset" 345
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_2.uasset" 346
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_3.uasset" 347
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_4.uasset" 348
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_5.uasset" 349
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Concrete/Concrete_Heels_6.uasset" 350
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_1.uasset" 351
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_2.uasset" 352
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_3.uasset" 353
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_4.uasset" 354
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_5.uasset" 355
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Grass/Grass_Heels_6.uasset" 356
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_1.uasset" 357
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_2.uasset" 358
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_3.uasset" 359
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_4.uasset" 360
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_5.uasset" 361
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Gravel/Gravel_Heels_6.uasset" 362
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_1.uasset" 363
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_2.uasset" 364
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_3.uasset" 365
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_4.uasset" 366
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_5.uasset" 367
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Ground/Ground_Heels_6.uasset" 368
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_1.uasset" 369
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_2.uasset" 370
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_3.uasset" 371
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_4.uasset" 372
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_5.uasset" 373
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Metal/Metal_Heels_6.uasset" 374
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_1.uasset" 375
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_2.uasset" 376
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_3.uasset" 377
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_4.uasset" 378
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_5.uasset" 379
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Plastic/PlasticHeels_6.uasset" 380
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_1.uasset" 381
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_2.uasset" 382
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_3.uasset" 383
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_4.uasset" 384
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_5.uasset" 385
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Sand/Sand_Heels_6.uasset" 386
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_1.uasset" 387
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_2.uasset" 388
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_3.uasset" 389
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_4.uasset" 390
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_5.uasset" 391
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Snow/Snow_Heels_6.uasset" 392
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_1.uasset" 393
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_2.uasset" 394
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_3.uasset" 395
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_4.uasset" 396
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_5.uasset" 397
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Water/Water_Heels_6.uasset" 398
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_1.uasset" 399
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_2.uasset" 400
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_3.uasset" 401
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_4.uasset" 402
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_5.uasset" 403
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Female/Wood/Wood_Heels_6.uasset" 404
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_1.uasset" 405
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_2.uasset" 406
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_3.uasset" 407
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_4.uasset" 408
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_5.uasset" 409
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Carpet/carpet_6.uasset" 410
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_1.uasset" 411
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_2.uasset" 412
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_3.uasset" 413
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_4.uasset" 414
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_5.uasset" 415
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Concrete/concrete_6.uasset" 416
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_1.uasset" 417
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_2.uasset" 418
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_3.uasset" 419
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_4.uasset" 420
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_5.uasset" 421
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Grass/grass_6.uasset" 422
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_1.uasset" 423
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_2.uasset" 424
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_3.uasset" 425
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_4.uasset" 426
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_5.uasset" 427
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Gravel/gravel_6.uasset" 428
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_1.uasset" 429
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_2.uasset" 430
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_3.uasset" 431
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_4.uasset" 432
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_5.uasset" 433
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Ground/ground_6.uasset" 434
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_1.uasset" 435
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_2.uasset" 436
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_3.uasset" 437
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_4.uasset" 438
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_5.uasset" 439
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Metal/metal_6.uasset" 440
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_1.uasset" 441
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_2.uasset" 442
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_3.uasset" 443
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_4.uasset" 444
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_5.uasset" 445
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Plastic/Plastic_6.uasset" 446
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_1.uasset" 447
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_2.uasset" 448
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_3.uasset" 449
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_4.uasset" 450
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_5.uasset" 451
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Sand/Sand_6.uasset" 452
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_1.uasset" 453
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_2.uasset" 454
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_3.uasset" 455
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_4.uasset" 456
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_5.uasset" 457
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Snow/snow_6.uasset" 458
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_1.uasset" 459
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_2.uasset" 460
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_3.uasset" 461
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_4.uasset" 462
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_5.uasset" 463
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Water/water_6.uasset" 464
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_1.uasset" 465
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_2.uasset" 466
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_3.uasset" 467
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_4.uasset" 468
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_5.uasset" 469
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/WaveFiles/Footsteps_Mono/Wood/wood_6.uasset" 470
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Footsteps.uasset" 471
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FootstepSound/Sound_Cues/Jumping/Foot_Jump.uasset" 472
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/DataTable/ELevelNames.uasset" 473
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Widget/BP_CreditWideget.uasset" 474
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Widget/BP_InGameMenu.uasset" 475
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/FPSCharacter.uasset" 476
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/GameObject/BaseActionableActor.uasset" 477
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/GameObject/BaseCollectableActor.uasset" 478
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpPlayerController.uasset" 479
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/GameObject/CollectableGold.uasset" 480
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Cube_Mat1.uasset" 481
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/GameObject/EndTimerButton.uasset" 482
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/GameObject/StartTimerButton.uasset" 483
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SpawnManager.uasset" 484
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Blueprints/SplineBlock/SplineFollowingBlock.uasset" 485
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpGameState.uasset" 486
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 487
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Widget/BP_KZMainWideget.uasset" 488
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpHUD.uasset" 489
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpPlayerState.uasset" 490
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpGameMode.uasset" 491
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 492
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 493
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/Material/Mat_RT_Portal.uasset" 494
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/BP_Portal2.uasset" 495
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Cube_Mat4.uasset" 496
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/BP_Portal1.uasset" 497
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Maps/FirstPersonExampleMap_BuiltData.uasset" 498
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Cube_Mat2.uasset" 499
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Surf_Mat1.uasset" 500
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Surf_Mat3.uasset" 501
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Material/Surf_Mat4.uasset" 502
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/Material/PhysMat_PortalSurface.uasset" 503
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyPortals/Material/Mat_PortalSurface.uasset" 504
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 505
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/Geometry/Meshes/1M_Cube.uasset" 506
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Maps/FirstPersonExampleMap.umap" 507
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Game/KZJumpMainMenuMode.uasset" 508
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Maps/MainMenu_BuiltData.uasset" 509
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Widget/SmallWidgets/BP_BaseTranparentButtonWithText.uasset" 510
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Widget/BP_MainMenu.uasset" 511
+"D:/UE4_projects/FPSCppTemplate-4.21/Content/MyFirstPerson/Maps/MainMenu.umap" 512
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 513
+"../../../Engine/Content/Maps/Entry.umap" 514
